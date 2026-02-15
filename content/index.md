@@ -20,18 +20,18 @@ title: SAP Public Cloud ERP
 >     @Semantics.amount.currencyCode : 'zedu05t001.type_cuky'
 
 - [[ZEDU02T001]] : Root 테이블
-- [ZEDU02T002](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T002) : Child 테이블
-- [ZEDU02T003](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T003) : Grand Child 테이블
-- [ZEDU02T004](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T004) : Chart 테이블
-- [ZEDU02T005](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T005) : 연락처
-- [ZEDU02T006](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T006) : 중요도
-- [ZEDU02T007](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T007) : 폴더
-- [ZEDU02T008](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T008) : 네비게이션
+- [[ZEDU02T002]] : Child 테이블
+- [[ZEDU02T003]] : Grand Child 테이블
+- [[ZEDU02T004]] : Chart 테이블
+- [[ZEDU02T005]] : 연락처
+- [[ZEDU02T006]] : 중요도
+- [[ZEDU02T007]] : 폴더
+- [[ZEDU02T008]] : 네비게이션
 
 # 3. Basic 뷰 만들기 
 ---
 > 생성된 테이블을 데이터소스로 해서 기본 모델링을 수행한다.  
-> [Basic View생성 가이드](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=RAP%2FCDS-Basic%20View%20%EC%83%9D%EC%84%B1)
+> [[CDS-Basic View 생성]Basic View생성 가이드](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=RAP%2FCDS-Basic%20View%20%EC%83%9D%EC%84%B1)
 > 
 > 주의
 > 
