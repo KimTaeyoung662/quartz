@@ -1,8 +1,3 @@
----
-title: 나의 지식 정원  <-- 원하는 제목으로 변경하세요
----
-
-
 > [cds annotation](https://help.sap.com/docs/abap-cloud/abap-rap/cds-annotations?version=sap_btp)
 
 # 1. 개발 Package 생성 
