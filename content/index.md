@@ -19,7 +19,7 @@ title: SAP Public Cloud ERP
 > - 반드시 참조필드의 어노테이션의 테이블을 생성하는 테이블로 변경  
 >     @Semantics.amount.currencyCode : 'zedu05t001.type_cuky'
 
-- [ZEDU02T001](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T001) : Root 테이블
+- [ZEDU02T001](https://podojem.github.io/quartz/SAP-Public-Cloud-ERP/ABAP-Table/ZEDU02T001) : Root 테이블
 - [ZEDU02T002](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T002) : Child 테이블
 - [ZEDU02T003](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T003) : Grand Child 테이블
 - [ZEDU02T004](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Table%2FZEDU02T004) : Chart 테이블
