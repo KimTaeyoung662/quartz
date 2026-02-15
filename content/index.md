@@ -31,7 +31,7 @@ title: SAP Public Cloud ERP
 # 3. Basic 뷰 만들기 
 ---
 > 생성된 테이블을 데이터소스로 해서 기본 모델링을 수행한다.  
-> [[CDS-Basic View 생성|[CDS-Basic View 생성]Basic View생성 가이드]]
+> [[CDS-Basic View 생성|Basic View생성 가이드]]
 > 
 > 주의
 > 
