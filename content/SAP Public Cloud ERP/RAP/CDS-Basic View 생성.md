@@ -436,5 +436,5 @@ as select from zttable01
 
 #### 4.6 소스코드 
 
-- [ZEDU_I_SALES_ORDER_HEADER](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Basic-View%2FZEDU_I_SALES_ORDER_HEADER)
-- [ZEDU_I_SALES_ORDER_ITEM](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=ABAP-Basic-View%2FZEDU_I_SALES_ORDER_ITEM)
+- [[ZEDU_I_SALES_ORDER_HEADER]]
+- [[ZEDU_I_SALES_ORDER_ITEM]]

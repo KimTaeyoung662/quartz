@@ -78,5 +78,3 @@ as select from zttable01
 	_SoldToParty
 }
 ```
-
-Oh no! Seems like something went wrong!

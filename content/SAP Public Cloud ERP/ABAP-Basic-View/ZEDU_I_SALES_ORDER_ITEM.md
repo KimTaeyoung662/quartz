@@ -96,5 +96,3 @@ association [0..1] to I_Currency as _Currency on $projection.TransactionCurrency
 
 }
 ```
-
-Oh no! Seems like something went wrong!
