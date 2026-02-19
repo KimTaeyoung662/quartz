@@ -40,14 +40,14 @@
 > Dimension 필드에 대한 Association 관계를 맺을 Dimension 뷰를 준비한다  
 > Guide - [CDS-Dimension뷰 생성](obsidian://open?vault=SAP%20Public%20Cloud%20ERP&file=RAP%2FCDS-Dimension%EB%B7%B0%20%EC%83%9D%EC%84%B1)
 
-|**속성**|**속성값**|
-|---|---|
-|SalesOrder|ZEDU03_I_SALES_ORDER|
-|SalesOrganization|ZEDU03_I_SALES_ORG|
-|SoldToParty|I_Customer|
-|Material|ZEDU03_I_PRODUCT|
-|OrderQuantityUnit|I_UnitOfMeasure|
-|TransactionCurrency|I_Currency|
+| **속성**              | **속성값**              |
+| ------------------- | -------------------- |
+| SalesOrder          | ZEDU03_I_SALES_ORDER |
+| SalesOrganization   | ZEDU03_I_SALES_ORG   |
+| SoldToParty         | I_Customer           |
+| Material            | ZEDU03_I_PRODUCT     |
+| OrderQuantityUnit   | I_UnitOfMeasure      |
+| TransactionCurrency | I_Currency           |
 
 #### 4.2 뷰 생성 
 

@@ -1,5 +1,6 @@
 
-```CLASS zedu02_cl_data_generator DEFINITION  
+```
+CLASS zedu02_cl_data_generator DEFINITION  
   PUBLIC  
   FINAL  
   CREATE PUBLIC .  

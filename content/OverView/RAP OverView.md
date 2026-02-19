@@ -7,7 +7,8 @@ title: SAP Public Cloud ERP
 # 1. 개발 Package 생성 
 ---
 > 본인의 개발클래스 밑에 다음의 규칙으로 개발 Package를 생성한다  
-> 생성 개발 Package : **ZEDU년도_이니셜(ex: ZEDU2026_KTY) - RAP OrverView 이니셜
+> 생성 개발 Package : **ZEDU년도_이니셜**(ZEDU26_KTY)  
+> Discription :  **RAP OrverView 이니셜**(RAP OrverView KTY)
 > 
 
 # 2. 테이블 생성 

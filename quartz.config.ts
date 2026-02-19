@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "SAP Public Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -27,30 +27,33 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
+      // quartz.config.ts 파일의 colors 섹션을 아래 내용으로 변경하세요.
+
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff",      // --color-base-00
+          lightgray: "#e0e0e0",  // --color-base-30 (borders)
+          gray: "#bdbdbd",       // --color-base-40 (muted elements)
+          darkgray: "#222222",   // --color-base-100 (body text)
+          dark: "#222222",       // --color-base-100 (headings)
+          secondary: "#8a5cf5",  // --accent-h: 258 (Purple accent)
+          tertiary: "#8a5cf5",   // Same as secondary for consistency
+          highlight: "rgba(138, 92, 245, 0.15)", // Based on secondary color
+          textHighlight: "#ffd00088", // --text-highlight-bg-rgb
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e1e",      // --color-base-00 (Dark mode)
+          lightgray: "#363636",  // --color-base-30 (Dark mode)
+          gray: "#666666",       // --color-base-50 (Dark mode)
+          darkgray: "#dadada",   // --color-base-100 (Dark mode)
+          dark: "#dadada",       // --color-base-100 (Dark mode)
+          secondary: "#a882ff",  // --color-purple (Dark mode variant)
+          tertiary: "#a882ff",
+          highlight: "rgba(138, 92, 245, 0.15)",
+          textHighlight: "#ffd00088",
         },
       },
+
     },
   },
   plugins: {

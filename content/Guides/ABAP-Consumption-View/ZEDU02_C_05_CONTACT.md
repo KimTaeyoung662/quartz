@@ -1,5 +1,3 @@
-  
-
 ```
 @AbapCatalog.viewEnhancementCategory: [#NONE]  
 @AccessControl.authorizationCheck: #NOT_REQUIRED  
