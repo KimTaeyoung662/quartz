@@ -5,7 +5,12 @@ title: Welcome to Podojem's Digital Garden
 # 👋 안녕하세요, SAP Full-Stack 개발자 podojem입니다.
 
 전통적인 ERP 환경부터 최신 클라우드 기술까지, 데이터와 비즈니스를 연결하는 가치를 만듭니다. 이 공간은 제가 학습하고 실무에서 겪은 기술적 여정을 기록하는 **디지털 가든**입니다.
-
+> - #SAP
+> - #RAP
+> - #Public
+> - #CDS
+> - #UI5
+> - #BTP
 ---
 
 ## 🚀 Core Tech Stack

@@ -5,3 +5,8 @@
 pre {
   background-color: var(--lightgray);
 }
+
+/* 코드 블록 줄 번호 스타일 재정의 (언어가 지정된 블록에만 적용됨) */
+pre > code > [data-line]::before {
+  color: var(--darkgray); /* 기본값보다 진한 색상으로 변경하여 가독성 확보 */
+}
