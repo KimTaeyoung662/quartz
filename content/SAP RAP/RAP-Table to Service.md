@@ -28,7 +28,7 @@
 
 |**속성**|**속성값**|
 |---|---|
-|PACKAGE 명|ZEDU0010_01|
+|PACKAGE 명|ZEDU년도_이니셜|
 |PACKAGE 내역|교육용 패키지|
 |부모 PACKAGE|ZEDU0010|
 
@@ -38,7 +38,7 @@
 
 | **속성**    | **속성값**                  |
 | --------- | ------------------------ |
-| PACKAGE 명 | ZEDU0010_01              |
+| PACKAGE 명 | ZEDU년도_이니셜              |
 | TABLE 이름  | ZTTALB01                 |
 | TABLE 내역  | 판매오더헤더                   |
 | SOURCE    | [[ZTTABLE01\|ZTTABLE01]] |
@@ -47,7 +47,7 @@
 
 | **속성**    | **속성값**                |
 | --------- | ---------------------- |
-| PACKAGE 명 | ZEDU0010_01            |
+| PACKAGE 명 | ZEDU년도_이니셜            |
 | TABLE 이름  | ZTTALB02               |
 | TABLE 내역  | 판매오더아이템                |
 | SOURCE    | [ZTTABLE02\|ZTTABLE02] |
